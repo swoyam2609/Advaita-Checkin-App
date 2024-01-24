@@ -1,10 +1,10 @@
-# DevFest'23 Bhubaneswar Mobile App
+# Advaita'24 IIIT-Bhubaneswar Checkin App
 
-This document provides information about the DevFest'23 Bhubaneswar Mobile App, built using Flutter.
+This document provides information about the Advaita'24 IIIT-Bhubaneswar Checkin App, built using Flutter.
 
 ## Project Overview
 
-The DevFest'23 Bhubaneswar Mobile App is designed to facilitate attendee check-in and streamline the distribution of lunch and swags during the event. It complements the DevFest website, allowing users to:
+The Advaita'24 IIIT-Bhubaneswar Checkin App is designed to facilitate attendee check-in during the event. It complements the Advaita Site website, allowing users to:
 
 - **Scan Ticket QR Code:** Scan their ticket QR code or the QR code printed on their ID card for efficient check-in.
 - **Manage Account:** Access and update their account information.
